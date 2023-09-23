@@ -10,3 +10,6 @@ ERROR: HTTP error 404 while getting https://pypi.tuna.tsinghua.edu.cn/packages/f
 
 3.ERROR: Could not find a version that satisfies the requirement
 解决办法：https://blog.csdn.net/qq591840685/article/details/116399374
+
+4.gz whl等等的区别，同时附上更多的源
+https://blog.csdn.net/u011318077/article/details/86661403
